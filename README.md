@@ -29,6 +29,7 @@ The **WooCommerce Price Calculator** plugin allows you to dynamically calculate 
   
 
 This configuration means:
+##Enter discount ranges (e.g., 1-14:0, 15-49:0.35, 50-99:0.45, 100-249:0.55, 250+:0.65)
 - **1-14 items:** No discount (0%)
 - **15-49 items:** 35% discount
 - **50-99 items:** 45% discount
